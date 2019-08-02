@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UsuarioApp</string>
+    <string name="email">email</string>
+    <string name="contraseña">contraseña</string>
+    <string name="si_aun_no_tienes_cuenta">si aun no tienes cuenta pulsa</string>
+    <string name="aqui">aqui</string>
+</resources>
