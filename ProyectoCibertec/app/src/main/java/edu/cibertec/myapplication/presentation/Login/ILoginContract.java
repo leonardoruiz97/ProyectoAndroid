@@ -6,6 +6,7 @@ public interface ILoginContract {
         void showProgressBar();
         void hideProgressBar();
         void goToRegistrar();
+        void goToUsuario();
 
     }
 
